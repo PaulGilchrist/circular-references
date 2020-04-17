@@ -2,7 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-import './cycle2.js';
+import './cycle.js';
 
 // Create circular data
 // Setup vertices
